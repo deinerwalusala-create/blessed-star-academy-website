@@ -13,7 +13,7 @@ function App() {
         <div className="logo">
           <div className="logo-icon">BBA</div>
           <div>
-            <h2>Blessed StarAcademy</h2>
+            <h2>BLESSED STAR ACADEMY</h2>
             <span>ACADEMY</span>
           </div>
         </div>
