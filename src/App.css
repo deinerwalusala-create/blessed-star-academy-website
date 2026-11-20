@@ -791,3 +791,33 @@ footer small {
     transition-duration: 0.01ms !important;
   }
 }
+
+.developer-credit {
+  text-align: center;
+  margin-top: 25px;
+  padding: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.developer-credit p {
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.developer-credit a {
+  display: block;
+  color: #f4c542;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.developer-credit a:hover {
+  text-decoration: underline;
+}
+
+.developer-credit span {
+  display: block;
+  font-size: 12px;
+  margin-top: 6px;
+}

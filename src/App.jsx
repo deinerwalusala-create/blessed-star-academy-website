@@ -365,6 +365,19 @@ function App() {
           © {new Date().getFullYear()} BLESSED STAR ACADEMY.
           All rights reserved.
         </small>
+        <div className="developer-credit">
+  <p>Website Designed & Developed By</p>
+
+  <a
+    href="https://github.com/deinerwalusala-create"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Deiner Walusala
+  </a>
+
+  <span>Computer Science Student | Web Developer</span>
+</div>
       </footer>
 
     </div>
