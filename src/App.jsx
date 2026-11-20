@@ -13,7 +13,7 @@ function App() {
         <div className="logo">
           <div className="logo-icon">BBA</div>
           <div>
-            <h2>BUSHILI BLESSED</h2>
+            <h2>Blessed StarAcademy</h2>
             <span>ACADEMY</span>
           </div>
         </div>
@@ -43,7 +43,7 @@ function App() {
       {/* Hero Section */}
       <section className="hero" id="home">
         <div className="hero-content">
-          <p className="welcome">WELCOME TO BUSHILI BLESSED ACADEMY</p>
+          <p className="welcome">WELCOME TO BLESSED STAR ACADEMY</p>
 
           <h1>
             Inspiring Young Minds,
@@ -73,7 +73,7 @@ function App() {
           <p className="small-heading">ABOUT OUR SCHOOL</p>
           <h2>Growing Together, Achieving Excellence</h2>
           <p>
-            Welcome to Bushili Blessed Academy, where every learner gets
+            Welcome to BLESSED STAR ACADEMY, where every learner gets
             an opportunity to discover their potential.
           </p>
         </div>
@@ -90,7 +90,7 @@ function App() {
             <h3>A Foundation for a Brighter Future</h3>
 
             <p>
-              At Bushili Blessed Academy, we are committed to creating
+              At BLESSED STAR ACADEMY, we are committed to creating
               a supportive learning environment where learners develop
               academically, socially and morally.
             </p>
@@ -137,7 +137,7 @@ function App() {
       {/* Academics */}
       <section className="academics section" id="academics">
         <div className="section-heading">
-          <p className="small-heading">LEARNING AT BUSHILI</p>
+          <p className="small-heading">LEARNING AT BLESSED STAR ACADEMY</p>
           <h2>Our Academic Programme</h2>
           <p>
             From the first steps in learning to the development of
@@ -181,7 +181,7 @@ function App() {
       {/* Why Choose Us */}
       <section className="why-us section" id="why-us">
         <div className="section-heading">
-          <p className="small-heading">WHY BUSHILI BLESSED?</p>
+          <p className="small-heading">WHY  BLESSED STAR ACADEMY?</p>
           <h2>Education Beyond the Classroom</h2>
           <p>
             We focus on developing the whole learner through
@@ -236,7 +236,7 @@ function App() {
             <h2>Give Your Child a Strong Foundation for the Future</h2>
 
             <p>
-              At Bushili Blessed Academy, we believe every learner
+              At BLESSED STAR ACADEMY, we believe every learner
               deserves an opportunity to grow, discover their abilities
               and achieve their full potential.
             </p>
@@ -293,7 +293,7 @@ function App() {
       {/* School Gallery */}
       <section className="gallery section" id="gallery">
         <div className="section-heading">
-          <p className="small-heading">LIFE AT BUSHILI</p>
+          <p className="small-heading">LIFE AT BLESSED STAR ACADEMY</p>
           <h2>Our School Gallery</h2>
           <p>
             Discover an environment where learning,
@@ -341,12 +341,12 @@ function App() {
         <p className="small-heading">WE WOULD LOVE TO HEAR FROM YOU</p>
         <h2>Give Your Child a Brighter Future</h2>
         <p>
-          Get in touch with Bushili Blessed Academy for
+          Get in touch with BLESSED STAR ACADEMY for
           enquiries and admissions information.
         </p>
 
         <a
-          href="mailto:info@bushiliblessedacademy.com"
+          href="mailto:info@blessedstaracademy.com"
           className="primary-button"
         >
           Contact the School
@@ -355,14 +355,14 @@ function App() {
 
       {/* Footer */}
       <footer>
-        <h2>BUSHILI BLESSED ACADEMY</h2>
+        <h2>BLESSED STAR ACADEMY</h2>
         <p>STRIVE FOR EXCELLENCE</p>
         <p>Shikhambi, Kakamega County, Kenya</p>
 
         <div className="footer-line"></div>
 
         <small>
-          © {new Date().getFullYear()} Bushili Blessed Academy.
+          © {new Date().getFullYear()} BLESSED STAR ACADEMY.
           All rights reserved.
         </small>
       </footer>
